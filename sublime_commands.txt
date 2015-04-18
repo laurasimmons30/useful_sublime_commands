@@ -1,0 +1,23 @@
+COMMAND P
+    command + p - Search for the specific name of a specific file in your project
+    command + p, then type in '@[name]' - Go to a method named [name]
+    command + p, then type in ':[number]' - Go to line [number]
+
+COMMAND F
+    command + f - Find; will find any instance of whenever word
+
+COMMAND D
+    command + d - Multi-Cursor find; highlight any instance of the word highlighted
+    command + cursor click - Make multiple cursors
+
+COMMAND { or COMMAND }
+    command + } - Indent the highlighted lines to the right
+    command + { - Indent the highlighted lines to the left
+
+NAVIGATION CHEATS
+    command + n - Open a new sublime tab in the same window
+    command + n + shift - Open a new sublime tab in a new window
+    command + [left or right arrow] + option - Go to the next sublime tab
+    command + w - Close current tab of Sublime
+    command + q - Close ALL of Sublime
+    command + s - Save current tab of Sublime
