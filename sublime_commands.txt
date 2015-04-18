@@ -15,9 +15,9 @@ COMMAND { or COMMAND }
     command + { - Indent the highlighted lines to the left
 
 NAVIGATION CHEATS
-    command + n - Open a new sublime tab in the same window
-    command + n + shift - Open a new sublime tab in a new window
-    command + [left or right arrow] + option - Go to the next sublime tab
+    command + n - Open a new Sublime tab in the same window
+    command + n + shift - Open a new Sublime tab in a new window
+    command + [left or right arrow] + option - Go to the next Sublime tab
     command + w - Close current tab of Sublime
     command + q - Close ALL of Sublime
     command + s - Save current tab of Sublime
